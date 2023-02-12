@@ -1,11 +1,11 @@
 {
   "root": true,
   "project": {
-    "name": "vercel-template-blog-studio"
+    "name": "schneit-portfolio-sanity"
   },
   "api": {
-    "projectId": "YOUR_PROJECT_ID",
-    "dataset": "YOUR_DATASET_NAME"
+    "projectId": "schneit-portfolio",
+    "dataset": "schneit-data"
   },
   "plugins": [
     "@sanity/base",
